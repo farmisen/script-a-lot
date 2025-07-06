@@ -7,6 +7,9 @@ Welcome to **script-a-lot**, a public repository of shell scripts that I've crea
 ### 1. [gh-forks-cleanup](./gh-forks-cleanup)
 A Bash script to help you clean up unused GitHub forks. If you have a lot of forked repositories cluttering your GitHub account, this script can assist in identifying and removing the ones you no longer need.
 
+### 2. [vscode-config-mgmt](./vscode-config-mgmt)
+A cross-platform Bash script for backing up and restoring Visual Studio Code configuration. It automatically detects your operating system (macOS or Linux) and backs up your settings, keybindings, installed extensions, and code snippets. Perfect for syncing your VS Code setup across different machines or before system reinstalls.
+
 
 ## License
 
